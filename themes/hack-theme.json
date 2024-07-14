@@ -35,7 +35,7 @@
         "titleBar.inactiveForeground": "#707070",
 
         "tab.border": "#080808",
-        "tab.activeBackground": "#161616",
+        "tab.activeBackground": "#101010",
         "tab.inactiveBackground": "#080808",
 
         "statusBar.debuggingForeground": "#D0D2D6",
@@ -57,7 +57,7 @@
         "icon.foreground": "#ACACAC",
         "input.background": "#1C1C1C",
         "list.activeSelectionBackground": "#232323",
-        "list.hoverBackground": "#282828",
+        "list.hoverBackground": "#272727",
         "list.errorForeground": "#F24C23",
         "list.highlightForeground": "#BBBBFF",
         "selection.background": "#666",
@@ -73,8 +73,8 @@
         "textLink.foreground": "#BBBBFF",
         "textLink.activeForeground": "#FFCFA8",
 
-        "editorHoverWidget.background": "#161616",
-        "editorHoverWidget.border": "#282828",
+        "editorHoverWidget.background": "#101010",
+        "editorHoverWidget.border": "#272727",
 
         "scrollbarSlider.background": "#34343480",
         "scrollbarSlider.hoverBackground": "#343434",

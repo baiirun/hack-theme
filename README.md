@@ -17,15 +17,16 @@
 
 ### OP-1
 
-- Dark 5: #060606 // 131313
-- Dark 4: #272727
-- Dark 2: #6A6A6A
-- Dark 2: #ACACAC
-- Dark 1: F0F2F6 / F8F8F8
-- Yellow: #E5B468 // FFC799DF
+- Dark 5: 080808
+- Dark 4.5: 131313
+- Dark 4: 272727
+- Dark 2: 6A6A6A
+- Dark 2: ACACAC
+- Dark 1: D0D2D6
+- Yellow: E5B468
 - Blue: 5DB4EC / 89A8D3 / BBBBFF
-- Green: #99FFE4CC // 67B093
+- Green: 67B093
 - Red/orange: F24C23
-- White: F0F2F6 / F8F8F8
+- White: F0F2F6
 - Cyan: 16858D
 - Magenta: #B468E5
