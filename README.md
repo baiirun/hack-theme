@@ -23,7 +23,7 @@
 - Dark 2: #ACACAC
 - Dark 1: F0F2F6 / F8F8F8
 - Yellow: #E5B468 // FFC799DF
-- Blue: 5DB4EC / 89A8D3
+- Blue: 5DB4EC / 89A8D3 / BBBBFF
 - Green: #99FFE4CC // 67B093
 - Red/orange: F24C23
 - White: F0F2F6 / F8F8F8
